@@ -1,0 +1,65 @@
+
+JQuery
+
+Exercices
+
+Partie 1 : Fonctions natives jQuery
+
+Exercice 1
+Cacher le paragraphe text.
+
+Exercice 2
+Afficher le paragraphe text.
+
+Exercice 3
+Changer le font-family du paragraphe text en Arial.
+
+Exercice 4
+Vider le paragraphe firstText. Supprimer tous les éléments du paragraphe secondText.
+
+Exercice 5
+Donner à tous les éléments li enfants de ol la couleur rouge.
+
+
+
+Partie 2 : Evènements
+
+Exercice 1
+Au passage de la souris, agrandir une image de votre choix.
+
+Exercice 2
+Au clic sur le bouton, afficher une boîte de dialogue avec le message de votre choix.
+
+Exercice 3
+Afficher ou masquer le paragraphe text au clic des boutons.
+
+Exercice 4
+Au clic sur un bouton de couleur, modifier la couleur du texte.
+
+
+Exercice 5
+Au passage de la souris sur un bouton de couleur, colorer le texte. Le texte doit redevenir noir quand la souris quitte le bouton
+
+
+Partie 2 : TP
+
+TP1
+
+Construisez une page html avec un bouton et un champ number. Le but est de trouver un nombre entre 0 et 100. A chaque réponse la page répond :
+• plus
+• moins
+• correcte
+Quand la réponse est trouvée, on obtient le nombre d'essais que l'on a fait.
+
+
+TP2
+
+Demander à l'aide d'un formulaire les 5 dernières notes d'un élève.
+
+Calculer sa moyenne et déterminer son appréciation.
+• Si la moyenne de l'élève est supérieure ou égale à 0 et inférieure à 10, il aura comme appréciation : "En dessous de la moyenne".
+• Si la moyenne de l'élève est supérieure ou égale à 10 et inférieure à 13, il aura comme appréciation : "Moyen".
+• Si la moyenne de l'élève est supérieure ou égale à 13 et inférieure à 16, il aura comme appréciation : "Bien".
+• Si la moyenne de l'élève est supérieure ou égale à 16 et inférieure à 20, il aura comme appréciation : "Très bien".
+• Si la moyenne de l'élève est égale à 20, il aura comme appréciation : "Excellent".
+Afficher la moyenne et l'appréciation de l'élève.
